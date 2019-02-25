@@ -12,5 +12,4 @@ It detection speed is about **100ms** per image.
 - b.Our project speed is about **62ms** per image
 
 ## 3.Others
-- if you are Chinese people, you can also reference this blog(https://www.cnblogs.com/justcoder/).
-you can read more deals.
+- - If you are more familiar with Chinese, you can refer to this blog(https://www.cnblogs.com/justcoder/), which has more details.
