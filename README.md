@@ -1,3 +1,8 @@
+# Update on 2019-04-19
+- I have optimized and upgraded this project.So：
+- If you see this project for the first time, you can jump to [This project](https://github.com/Cw-zero/TensorRT_yolo3_module) directly. 
+- If you meet some bug on this project,you can try [This project](https://github.com/Cw-zero/TensorRT_yolo3_module).
+
 # Use TensorRT accelerate yolo3
 ---
 ## 1. How to run this project
